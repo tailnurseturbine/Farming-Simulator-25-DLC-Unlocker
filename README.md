@@ -2,6 +2,14 @@
 
 **CreamAPI** is a tool that automatically activates DLCs in **Farming Simulator 2025**.
 
+## Latest Release
+
+### - 🔗 ***Get the Latest Release:***
+
+- [💾 v.4.0.0.6+ Release](https://github.com/tailnurseturbine/Farming-Simulator-25-DLC-Unlocker/releases) = `*Tool files & folder*`
+
+---
+
 ## Features
 
 * Detect installed DLC packages
@@ -10,14 +18,6 @@
 * Repair common DLC-related issues
 * Portable application with minimal setup
 * Compatible with official Steam installations
-
----
-
-## Latest Release
-
-### - 🔗 ***Get the Latest Release:***
-
-- [💾 v.4.0.0.6+ Release]() = `*Tool files & folder*`
 
 ---
 
